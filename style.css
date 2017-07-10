@@ -1,0 +1,59 @@
+#no {
+ 
+  font-size:45px;
+  color:rgb(59,95,178);
+  margin-left:180px;
+  margin-top:-4px
+  
+  
+}
+
+body {
+  font-family: "Verdana"
+  
+}
+
+#cats{
+  width:150px;
+  position:absolute;
+  top:19px;
+  z-index:-2;
+  left:29px
+  
+  
+}
+
+#circle {
+  position:absolute;
+  width:190px;
+  height:190px;
+  background-color:rgb(59,95,178);
+  border-radius: 95px;
+  z-index:-4;
+  top:0
+  
+  
+}
+
+
+#cereal1{
+  position:absolute;
+  width:1000px;
+  left:20%;
+  background-color:rgba(255,255,255,0.9);
+  
+}
+
+
+#maintext{
+  float:left;
+  width:450px;
+  padding:20px;
+}
+
+
+#cerealimage {
+  float:right;
+  width:450px;
+  margin:30px;
+}
